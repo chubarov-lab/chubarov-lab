@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I am Alexey. PhD in Chemistry
+Scientist | Drug Discovery | Molecular Diagnostics | Biopharmaceutical R&D | Python & Data Analysis
+
+📍 Berlin, Germany
 
 <!--
 **chubarov-lab/chubarov-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

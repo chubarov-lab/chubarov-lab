@@ -1,4 +1,4 @@
-## Hi I am Alexey. PhD in Chemistry
+## Hi I am Chubarov Alexey. PhD in Chemistry
 Scientist | Drug Discovery | Molecular Diagnostics | Biopharmaceutical R&D | Python & Data Analysis
 
 📍 Berlin, Germany

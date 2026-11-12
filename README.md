@@ -4,27 +4,26 @@ Chemical Biology | Molecular Diagnostics | Biopharmaceutical R&D | Drug Delivery
 
 📍 Berlin, Germany
 
-<h3 align="center">RESEARCH AT A GLANCE</h3>
+<h4 align="center">RESEARCH AT A GLANCE</h4>
 
 <p align="center">
-  <b>10+</b> Years &nbsp;&nbsp;
-  <b>40+</b> <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">Publications</a> &nbsp;&nbsp;
-  <b>20</b> h-index &nbsp;&nbsp;
-  <b>5</b> <a href="https://patents.google.com/?inventor=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87+%D0%A7%D1%83%D0%B1%D0%B0%D1%80%D0%BE%D0%B2">Patents</a>
+  <img src="https://img.shields.io/badge/Research-10%2B_years-555555?style=flat-square" />
+  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">
+    <img src="https://img.shields.io/badge/Publications-40%2B-3569A8?style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/badge/h--index-20-2C8C78?style=flat-square" />
+  <a href="https://patents.google.com/?inventor=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87+%D0%A7%D1%83%D0%B1%D0%B0%D1%80%D0%BE%D0%B2">
+    <img src="https://img.shields.io/badge/Patents-5-8064A2?style=flat-square" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">Google Scholar</a>
-  &nbsp; | &nbsp;
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=6603106336">Scopus</a>
-  &nbsp; | &nbsp;
-  <a href="https://www.researchgate.net/profile/Alexey-Chubarov">ResearchGate</a>
-  &nbsp; | &nbsp;
-  <a href="https://orcid.org/0000-0002-5708-7595">ORCID</a>
-  &nbsp; | &nbsp;
+  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">Google Scholar</a> &nbsp;·&nbsp;
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=6603106336">Scopus</a> &nbsp;·&nbsp;
+  <a href="https://www.researchgate.net/profile/Alexey-Chubarov">ResearchGate</a> &nbsp;·&nbsp;
+  <a href="https://orcid.org/0000-0002-5708-7595">ORCID</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/chubarovalex">LinkedIn</a>
 </p>
-
 
 
 <!--

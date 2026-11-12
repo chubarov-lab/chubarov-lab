@@ -10,8 +10,8 @@ Chemical Biology | Molecular Diagnostics | Biopharmaceutical R&D | Drug Delivery
 
 <p align="center">
   <b>10+</b> Years of Research &nbsp; • &nbsp;
-  <b>40+</b> Publications &nbsp; • &nbsp;
-  <b>5</b> Patents
+  <b><a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">40+ Publications</a></b> &nbsp; • &nbsp;
+  <b>5 Patents</b>
 </p>
 
 

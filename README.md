@@ -5,13 +5,9 @@ Chemical Biology | Molecular Diagnostics | Biopharmaceutical R&D | Drug Delivery
 📍 Berlin, Germany
 
 <p align="center">
-  <b>Professional Highlights</b>
-</p>
-
-<p align="center">
   <b>10+</b> Years of Research &nbsp; • &nbsp;
-  <b><a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">40+ Publications</a></b> &nbsp; • &nbsp;
-  <b>5 Patents</b>
+  <b>40+</b> <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">Publications</a> &nbsp; • &nbsp;
+  <b>5</b> Patents
 </p>
 
 

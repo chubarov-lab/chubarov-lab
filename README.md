@@ -8,7 +8,7 @@ Chemical Biology | Molecular Diagnostics | Biopharmaceutical R&D | Drug Delivery
   <b>10+</b> Years of Research &nbsp; • &nbsp;
   <b>40+</b> <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">Publications</a> &nbsp; • &nbsp;
   <b>h-index 20</b> &nbsp; • &nbsp;
-  <b>5</b> <a href="[https://patents.google.com/?inventor=Alexey+Chubarov](https://patents.google.com/?inventor=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87+%D0%A7%D1%83%D0%B1%D0%B0%D1%80%D0%BE%D0%B2)">Patents</a>
+  <b>5</b> <a href="https://patents.google.com/?inventor=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87+%D0%A7%D1%83%D0%B1%D0%B0%D1%80%D0%BE%D0%B2">Patents</a>
 </p>
 
 <p align="center">

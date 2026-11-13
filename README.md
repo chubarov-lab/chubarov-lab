@@ -1,9 +1,11 @@
-## Hi I am Chubarov Alexey. PhD in Chemistry
-Chemical Biology | Molecular Diagnostics | Biopharmaceutical R&D | Drug Delivery & Nanomedicine | Biophysics | Python
+## Hi I am Alexey Chubarov. 
+### PhD in Chemistry
+**Biopharmaceutical R&D | Chemical Biology | Molecular Diagnostics | Drug Delivery & Nanomedicine| Biophysics |Python**
+
+🧬 *Bridging Chemistry, Biology, Biophysics & Computational Science*
 
 PhD scientist with 10+ years of interdisciplinary experience in bioorganic chemistry, biochemistry, structural biology, and nanomedicine. Expertise in protein and nucleic acid modification, bioconjugation, molecular probe design, and spectroscopy-based analysis. Experienced in PCR-based diagnostics (modified oligonucleotides, magnetic nanoparticle-based nucleic acid isolation) and in functional nanocomposite platforms for drug delivery and cancer imaging. Hands-on experience in combining wet-lab approaches and biophysics to study biomolecular interactions in complex biological systems, including Python, computational tools, and AlphaFold 3 for data analysis, modeling, and visualization. Focused on translating research into diagnostic and pharmaceutical applications.
 
-🧬 Bridging Chemistry, Biology, Biophysics & Computational Science
 
 🔬 Research interests: Chemical Biology · Structural Biophysics · Molecular Diagnostics · Drug Delivery · Biomedical Nanomaterials
 

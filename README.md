@@ -10,6 +10,37 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 🔬 Research interests: Chemical Biology · Structural Biophysics · Molecular Diagnostics · Drug Delivery · Biomedical Nanomaterials
 
 💻 Computational tools: Python · MATLAB · AlphaFold 3 · PyMOL · Scientific Data Analysis
+<details>
+<summary><strong>Technical Skills & Methods</strong></summary>
+
+**Molecular Biology & Diagnostics**
+- qPCR, dPCR, PCR assay development and validation
+- Modified oligonucleotides, primer and probe design
+- DNA/RNA isolation, FFPE tissue analysis
+
+**Chemical Biology & Bioconjugation**
+- Protein and nucleic acid modification
+- Bioconjugation and site-directed labeling
+- Molecular probe design, click chemistry
+
+**Biophysics & Analytical Methods**
+- EPR, CW-EPR, PELDOR/DEER
+- Fluorescence, UV–Vis, CD, FTIR, NMR
+- HPLC, SEC, LC-MS, MALDI-TOF, DLS
+
+**Drug Delivery & Nanomedicine**
+- Magnetic nanoparticles and nanocomposites
+- Albumin-based nanocarriers
+- Drug loading and controlled release
+
+**Computational Tools**
+- Python, MATLAB, AlphaFold 3, PyMOL, OriginLab
+
+**Quality & Documentation**
+- SOP development, method validation
+- GxP/GMP fundamentals, ALCOA+
+
+</details>
 
 📍 Berlin, Germany
 

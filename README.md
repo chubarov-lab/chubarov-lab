@@ -41,7 +41,14 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - GxP/GMP fundamentals, ALCOA+
 
 </details>
+<details>
+<summary><strong>Selected Publications</strong></summary>
 
+1. **Basic Cheminformatics Course for First-Year Chemistry Students**  
+   *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
+   [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
+
+</details>
 📍 Berlin, Germany
 
 <h4 align="center">RESEARCH AT A GLANCE</h4>

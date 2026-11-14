@@ -7,7 +7,6 @@
 PhD scientist with 10+ years of interdisciplinary experience in bioorganic chemistry, biochemistry, structural biology, nanomedicine, and biomedical research. Experienced in developing molecular diagnostics, functional nanomaterials, drug delivery platforms, and biomolecular probes.
 My research combines experimental chemistry, molecular biology, spectroscopy, and computational approaches to translate fundamental research into biomedical and pharmaceutical applications.
 
-*Computational tools: Python · MATLAB · AlphaFold 3 · PyMOL · Scientific Data Analysis
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
 

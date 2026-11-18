@@ -89,7 +89,62 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 1. **Basic Cheminformatics Course for First-Year Chemistry Students**  
    *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
    [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
+### ⭐ Selected Publications in Leading Journals
 
+- **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**  
+  *Journal of the American Chemical Society*, 2025.  
+  [DOI: 10.1021/jacs.5c01274](https://doi.org/10.1021/jacs.5c01274)
+
+- **Triplet Fullerenes as Prospective Spin Labels for Nanoscale Distance Measurements by Pulsed Dipolar EPR Spectroscopy**  
+  *Angewandte Chemie International Edition*, 2019.  
+  [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)
+
+- **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**  
+  *Chemistry – A European Journal*, 2020.  
+  [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
+
+### 🔬 Structural Biophysics & EPR
+
+- **Pulsed Dipolar EPR for Self-Limited Complexes of Oligonucleotides Studies**  
+  *Biomolecules*, 2024.  
+  [DOI: 10.3390/biom14080887](https://doi.org/10.3390/biom14080887)
+
+- **Reversible Dimerization of Human Serum Albumin**  
+  *Molecules*, 2020.  
+  [DOI: 10.3390/molecules26010108](https://doi.org/10.3390/molecules26010108)
+
+### 🧬 Molecular Diagnostics & Oligonucleotide Chemistry
+
+- **Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
+  *Diagnostics*, 2020.
+
+- **Allele-Specific PCR for PIK3CA Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
+  *Diagnostics*, 2023.  
+  [DOI: 10.3390/diagnostics13020250](https://doi.org/10.3390/diagnostics13020250)
+
+### 💊 Drug Delivery & Nanomedicine
+
+- **Serum Albumin for Magnetic Nanoparticles Coating**  
+  *Magnetochemistry*, 2022.  
+  [DOI: 10.3390/magnetochemistry8020013](https://doi.org/10.3390/magnetochemistry8020013)
+
+- **High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy**  
+  *Magnetochemistry*, 2022.  
+  [DOI: 10.3390/magnetochemistry8050054](https://doi.org/10.3390/magnetochemistry8050054)
+
+- **pH-Responsible Doxorubicin-Loaded Fe3O4@CaCO3 Nanocomposites for Cancer Treatment**  
+  *Pharmaceutics*, 2023.  
+  [DOI: 10.3390/pharmaceutics15030771](https://doi.org/10.3390/pharmaceutics15030771)
+
+### 💻 Cheminformatics & Scientific Education
+
+- **Basic Cheminformatics Course for First-Year Chemistry Students**  
+  *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
+  [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
+
+---
+
+[Full publication list — Google Scholar](https://scholar.google.com/citations?user=OBtmliMAAAAJ)
 </details>
 📍 Berlin, Germany
 

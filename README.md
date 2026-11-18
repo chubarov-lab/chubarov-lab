@@ -108,13 +108,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <details>
 <summary><strong>Selected Publications</strong></summary>
  
-### 💻 Cheminformatics & Scientific Education
-
-**Basic Cheminformatics Course for First-Year Chemistry Students**  
-  *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
-  [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
-  
-### ⭐ Selected Publications in Leading Journals
+## Selected Publications in Leading Journals
 
 - **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**  
   *Journal of the American Chemical Society*, 2025.  
@@ -128,7 +122,13 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Chemistry – A European Journal*, 2020.  
   [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
 
-### 🔬 Structural Biophysics & EPR
+## Cheminformatics & Scientific Education
+
+**Basic Cheminformatics Course for First-Year Chemistry Students**  
+  *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
+  [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
+  
+## Structural Biophysics & EPR
 
 - **Pulsed Dipolar EPR for Self-Limited Complexes of Oligonucleotides Studies**  
   *Biomolecules*, 2024.  
@@ -138,7 +138,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Molecules*, 2020.  
   [DOI: 10.3390/molecules26010108](https://doi.org/10.3390/molecules26010108)
 
-### 🧬 Molecular Diagnostics & Oligonucleotide Chemistry
+## Molecular Diagnostics & Oligonucleotide Chemistry
 
 - **Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
   *Diagnostics*, 2020.
@@ -147,7 +147,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Diagnostics*, 2023.  
   [DOI: 10.3390/diagnostics13020250](https://doi.org/10.3390/diagnostics13020250)
 
-### 💊 Drug Delivery & Nanomedicine
+## Drug Delivery & Nanomedicine
 
 - **Serum Albumin for Magnetic Nanoparticles Coating**  
   *Magnetochemistry*, 2022.  

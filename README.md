@@ -16,7 +16,6 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 <h4 align="center">RESEARCH AT A GLANCE</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research-10%2B_years-555555?style=flat-square" />
   <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">
     <img src="https://img.shields.io/badge/Publications-40%2B-3569A8?style=flat-square" />
   </a>

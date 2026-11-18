@@ -148,9 +148,24 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *International Journal of Molecular Sciences*, 2024.
   [DOI: 10.3390/ijms25010617](https://doi.org/10.3390/ijms25010617)
 
+- **Pulsed Dipolar EPR for Self-Limited Complexes of Oligonucleotides Studies**  
+  *Biomolecules*, 2024.
+  [DOI: 10.3390/biom14080887](https://doi.org/10.3390/biom14080887)
 - **Allele-Specific PCR for PIK3CA Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
   *Diagnostics*, 2023.
   [DOI: 10.3390/diagnostics13020250](https://doi.org/10.3390/diagnostics13020250)
+
+- **Self-Penetrating Oligonucleotide Derivatives: Features of Self-Assembly and Interactions with Serum and Intracellular Proteins**  
+  *Pharmaceutics*, 2023.
+  [DOI: 10.3390/pharmaceutics15122779](https://doi.org/10.3390/pharmaceutics15122779)
+
+- **Revealing Light-Induced Structural Shifts in G-Quadruplex-Porphyrin Complexes: A Pulsed Dipolar EPR Study**  
+  *Physical Chemistry Chemical Physics*, 2023.
+  [DOI: 10.1039/D3CP01775C](https://doi.org/10.1039/D3CP01775C)
+
+- **Solution pH Effect on Drain-Gate Characteristics of SOI FET Biosensor**  
+  *Electronics*, 2023. 
+  [DOI: 10.3390/electronics12030777](https://doi.org/10.3390/electronics12030777)
 
 - **Magnetic Nylon 6 Nanocomposites for the Microextraction of Nucleic Acids from Biological Samples**  
   *Magnetochemistry*, 2022.
@@ -159,10 +174,6 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - **The Effect of pH and Buffer on Oligonucleotide Affinity for Iron Oxide Nanoparticles**  
   *Magnetochemistry*, 2021.
   [DOI: 10.3390/magnetochemistry7090128](https://doi.org/10.3390/magnetochemistry7090128)
-
-- **Self-Penetrating Oligonucleotide Derivatives: Features of Self-Assembly and Interactions with Serum and Intracellular Proteins**  
-  *Pharmaceutics*, 2023.
-  [DOI: 10.3390/pharmaceutics15122779](https://doi.org/10.3390/pharmaceutics15122779)
 
 #### Cheminformatics & Scientific Education
 
@@ -212,7 +223,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 #### Research Areas
 
-**PCR Diagnostics & Oligonucleotide Chemistry** · **Drug Delivery & Nanomedicine** · **Chemical Biology & Bioconjugation** · **Protein Chemistry & Biomolecular Engineering** · **Structural Biophysics** · **Cancer Imaging**
+**PCR Diagnostics & Oligonucleotide Chemistry** · **Drug Delivery & Nanomedicine** · **Chemical Biology & Bioconjugation** · **Protein Chemistry & Biomolecular Engineering** · **Structural Biophysics** · **Cancer Imaging**  
 📍 Berlin, Germany
 
 <h4 align="center">RESEARCH AT A GLANCE</h4>

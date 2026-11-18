@@ -109,7 +109,8 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <summary><strong>Publications</strong></summary>
 <details>
  <summary><strong>Selected & Notable Publications</strong></summary> 
-#### Publications in Leading Journals
+
+ #### Publications in Leading Journals
 - **Dimerization and transporter engagement of the energy transducer TonB in intact E. coli cells**
   *Under Review*, 2026
 - **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**
@@ -142,7 +143,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <sub>Citation counts according to Google Scholar, November 2026.</sub>
 </details>
 <details>
-<summary><strong>Selected Publications by Research Area</strong></summary>
+<summary><strong>Publications by Research Area</strong></summary>
 
  #### PCR Diagnostics & Oligonucleotide Capture/Chemistry
 

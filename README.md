@@ -35,7 +35,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS)
 - Electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA))
 - Radical formation (UV–Vis, methyl viologen)
-- Protein aggregation/amyloid (Congo red, thioflavin T, ANS assays)
+- Protein aggregation/amyloid detection (Congo red, thioflavin T, ANS)
 
 **Computational Tools**
 - Scientific computing, data analysis, AI-assisted coding, and visualization

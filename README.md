@@ -121,7 +121,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Angewandte Chemie International Edition*, 2019.  
   [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)
 
-## Most Cited Publications
+## Most Cited Publications (50+ citations)
 
 
 ## Cheminformatics & Scientific Education

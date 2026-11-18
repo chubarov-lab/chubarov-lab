@@ -140,6 +140,28 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   [DOI: 10.3390/diagnostics10110872](https://doi.org/10.3390/diagnostics10110872)  
 <sub>Citation counts according to Google Scholar, November 2026.</sub>
   
+#### Molecular Diagnostics & Oligonucleotide Chemistry
+
+- **Phosphoramidate Azole Oligonucleotides for Single Nucleotide Polymorphism Detection by PCR**  
+  *International Journal of Molecular Sciences*, 2024. **28 citations**  
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:0EnyYjriUFMC)
+
+- **Allele-Specific PCR for PIK3CA Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
+  *Diagnostics*, 2023. **20 citations**  
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&cstart=20&pagesize=80&citation_for_view=OBtmliMAAAAJ:_FxGoFyzp5QC)
+
+- **Magnetic Nylon 6 Nanocomposites for the Microextraction of Nucleic Acids from Biological Samples**  
+  *Magnetochemistry*, 2022. **17 citations**  
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&cstart=20&pagesize=80&citation_for_view=OBtmliMAAAAJ:3fE2CSJIrl8C)
+
+- **The Effect of pH and Buffer on Oligonucleotide Affinity for Iron Oxide Nanoparticles**  
+  *Magnetochemistry*, 2021. **10 citations**  
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&cstart=20&pagesize=80&citation_for_view=OBtmliMAAAAJ:qjMakFHDy7sC)
+
+- **Self-Penetrating Oligonucleotide Derivatives: Features of Self-Assembly and Interactions with Serum and Intracellular Proteins**  
+  *Pharmaceutics*, 2023. **5 citations**  
+  [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&cstart=20&pagesize=80&citation_for_view=OBtmliMAAAAJ:UeHWp8X0CEIC)
+
 #### Cheminformatics & Scientific Education
 
 **Basic Cheminformatics Course for First-Year Chemistry Students**  

@@ -117,13 +117,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Journal of the American Chemical Society*, 2025.  
   [DOI: 10.1021/jacs.5c01274](https://doi.org/10.1021/jacs.5c01274)
 
-- **Triplet Fullerenes as Prospective Spin Labels for Nanoscale Distance Measurements by Pulsed Dipolar EPR Spectroscopy**  
+- **Triplet Fullerenes as Prospective Spin Labels for Nanoscale Distance Measurements by Pulsed Dipolar EPR Spectroscopy**
   *Angewandte Chemie International Edition*, 2019.  
   [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)
-
-- **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**  
-  *Chemistry – A European Journal*, 2020.  
-  [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
 
 ## Cheminformatics & Scientific Education
 
@@ -140,6 +136,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - **Reversible Dimerization of Human Serum Albumin**  
   *Molecules*, 2020.  
   [DOI: 10.3390/molecules26010108](https://doi.org/10.3390/molecules26010108)
+  - **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**
+  *Chemistry – A European Journal*, 2020.  
+  [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
 
 ## Molecular Diagnostics & Oligonucleotide Chemistry
 

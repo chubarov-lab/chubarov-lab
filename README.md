@@ -10,6 +10,10 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
 
+ <table>
+<tr>
+<td width="50%" valign="top">
+ 
 **PCR Diagnostics**
 - Solid-phase oligonucleotide synthesis
 - Modified oligonucleotides, primer, blocker, and probe design
@@ -69,6 +73,10 @@ Spectroscopy & Biophysics: spectroscopic characterization of biomolecular struct
 Analytics & Purification: chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel); mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS); electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA)); radical formation (UV–Vis, methyl viologen); protein aggregation/amyloid (Congo red, thioflavin T, ANS assays). 
 Nanomaterials for Biomedical Applications: drug delivery; synthesis and characterization of magnetic nanoparticles; coating with inorganic compounds, polymers, and biomolecules; drug loading and pH-triggered release; molecularly imprinted polymers
 Computational: Python (scientific computing, data analysis, AI-assisted coding, and visualization), AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3), MATLAB, OriginLab, PyMOL, ChemOffice, Topspin, etc.; molecular dynamics simulations (basic); scientific database and literature search (e.g., Reaxys). 
+
+</td>
+</tr>
+</table>
 
 </details>
 <details>

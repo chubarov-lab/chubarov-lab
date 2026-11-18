@@ -41,7 +41,7 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 **PCR Diagnostics**
 - Solid-phase oligonucleotide synthesis
 - Modified oligonucleotides, primer, blocker, and probe design
-- qPCR, dPCR, PCR assay development and validation 
+- qPCR, dPCR, PCR assay development 
 - PCR performance evaluation (sensitivity, specificity, etc.)
 - DNA extraction from FFPE tissue
 
@@ -192,12 +192,6 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
   *Magnetochemistry*, 2021.
   [DOI: 10.3390/magnetochemistry7090128](https://doi.org/10.3390/magnetochemistry7090128)
 
-#### Cheminformatics & Computations
-
-**Basic Cheminformatics Course for First-Year Chemistry Students**  
-  *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
-  [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
-  
 #### Structural Biophysics & EPR
 
 - **Pulsed Dipolar EPR for Self-Limited Complexes of Oligonucleotides Studies**  
@@ -264,6 +258,11 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
   *Bioorganic & Medicinal Chemistry Letters*, 2011.
   [DOI: 10.1016/j.bmcl.2011.04.119](https://doi.org/10.1016/j.bmcl.2011.04.119)
 
+#### Chemical Education & Computations
+
+**Basic Cheminformatics Course for First-Year Chemistry Students**  
+  *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
+  [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
 ---
 </details>
 </details>

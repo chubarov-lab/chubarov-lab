@@ -1,4 +1,4 @@
-## Hi I am Alexey Chubarov. 
+## Hi I'm Alexey Chubarov. 
 ### PhD in Chemistry
 **Biopharmaceutical R&D | Chemical Biology | Molecular Diagnostics | Drug Delivery & Nanomedicine| Structural Biophysics |Python**
 
@@ -106,7 +106,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
    [Patent record](https://searchplatform.rospatent.gov.ru/doc/RU2599500C1_20161010)
 </details>
 <details>
-<summary><strong>Selected Publications</strong></summary>
+<summary><strong>Selected & Notable Publications</strong></summary>
  
 #### Publications in Leading Journals
 - **Dimerization and transporter engagement of the energy transducer TonB in intact E. coli cells**

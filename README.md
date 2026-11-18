@@ -10,7 +10,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
 
-**Molecular Biology & Diagnostics**
+**PCR Diagnostics**
 - Solid-phase oligonucleotide synthesis
 - Modified oligonucleotides, primer, blocker, and probe design
 - qPCR, dPCR, PCR assay development and validation 
@@ -18,6 +18,8 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - DNA/RNA isolation on magnetic beads
 - DNA extraction from FFPE tissue
 - Familiar with ELISA and western blot
+
+**Molecular Biology**
 
 **Biotechnology**
 - E. coli, mutagenesis, plasmid isolation, transformation

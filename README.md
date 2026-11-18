@@ -108,8 +108,8 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <details>
 <summary><strong>Selected Publications</strong></summary>
  
-# Selected Publications in Leading Journals
-
+#### Selected Publications in Leading Journals
+<sub>
 - **Dimerization and transporter engagement of the energy transducer TonB in intact E. coli cells**
   *Under Review*, 2026
 - **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**
@@ -119,8 +119,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Angewandte Chemie International Edition*, 2019.  **68 citations**
   [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)  
   <sub>Citation counts according to Google Scholar, November 2026.</sub>
+</sub>
 
-# Most Cited Publications (50+ citations)
+#### Most Cited Publications (50+ citations)
 - **Magnetite Nanoparticles for Biomedical Applications**
   *Encyclopedia*, 2022. **102 citations**
   [DOI: 10.3390/encyclopedia2040125](https://doi.org/10.3390/encyclopedia2040125)
@@ -141,13 +142,13 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   [DOI: 10.3390/diagnostics10110872](https://doi.org/10.3390/diagnostics10110872)  
 <sub>Citation counts according to Google Scholar, November 2026.</sub>
   
-# Cheminformatics & Scientific Education
+#### Cheminformatics & Scientific Education
 
 **Basic Cheminformatics Course for First-Year Chemistry Students**  
   *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
   [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
   
-# Structural Biophysics & EPR
+#### Structural Biophysics & EPR
 
 - **Pulsed Dipolar EPR for Self-Limited Complexes of Oligonucleotides Studies**  
   *Biomolecules*, 2024.  
@@ -160,7 +161,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Chemistry – A European Journal*, 2020.  
   [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
 
-# Molecular Diagnostics & Oligonucleotide Chemistry
+#### Molecular Diagnostics & Oligonucleotide Chemistry
 
 - **Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
   *Diagnostics*, 2020.
@@ -169,7 +170,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Diagnostics*, 2023.  
   [DOI: 10.3390/diagnostics13020250](https://doi.org/10.3390/diagnostics13020250)
 
-# Drug Delivery & Nanomedicine
+#### Drug Delivery & Nanomedicine
 
 - **Serum Albumin for Magnetic Nanoparticles Coating**  
   *Magnetochemistry*, 2022.  

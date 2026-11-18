@@ -117,28 +117,28 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   [DOI: 10.1021/jacs.5c01274](https://doi.org/10.1021/jacs.5c01274)
 - **Triplet Fullerenes as Prospective Spin Labels for Nanoscale Distance Measurements by Pulsed Dipolar EPR Spectroscopy**
   *Angewandte Chemie International Edition*, 2019.  **68 citations**
-  [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)
+  [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)  
   <sub>Citation counts according to Google Scholar, November 2026.</sub>
 
 ## Most Cited Publications (50+ citations)
-- **Magnetite Nanoparticles for Biomedical Applications**  
+- **Magnetite Nanoparticles for Biomedical Applications**
   *Encyclopedia*, 2022. **102 citations**
   [DOI: 10.3390/encyclopedia2040125](https://doi.org/10.3390/encyclopedia2040125)
-- **Serum Albumin for Magnetic Nanoparticles Coating**  
+- **Serum Albumin for Magnetic Nanoparticles Coating**
   *Magnetochemistry*, 2022. **88 citations**
   [DOI: 10.3390/magnetochemistry8020013](https://doi.org/10.3390/magnetochemistry8020013)
-- **Reversible Dimerization of Human Serum Albumin**  
+- **Reversible Dimerization of Human Serum Albumin**
   *Molecules*, 2021. **79 citations**
   [DOI: 10.3390/molecules26010108](https://doi.org/10.3390/molecules26010108)
-- **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**  
+- **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**
   *Chemistry – A European Journal*, 2020. **68 citations**
   [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
-- **High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy**  
+- **High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy**
   *Magnetochemistry*, 2022. **58 citations**
   [DOI: 10.3390/magnetochemistry8050054](https://doi.org/10.3390/magnetochemistry8050054)
-- **Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
+- **Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers**
   *Diagnostics*, 2020. **54 citations**
-  [DOI: 10.3390/diagnostics10110872](https://doi.org/10.3390/diagnostics10110872)
+  [DOI: 10.3390/diagnostics10110872](https://doi.org/10.3390/diagnostics10110872)  
 <sub>Citation counts according to Google Scholar, November 2026.</sub>
   
 ## Cheminformatics & Scientific Education

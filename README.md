@@ -10,6 +10,25 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 #### Research Areas
 
 PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · Chemical Biology & Bioconjugation · Protein Chemistry & Biomolecular Engineering · Structural Biophysics · Cancer Imaging 
+
+<h4 align="center">RESEARCH AT A GLANCE</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-10%2B_years-555555?style=flat-square" />
+  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">
+    <img src="https://img.shields.io/badge/Publications-40%2B-3569A8?style=flat-square" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">
+    <img src="https://img.shields.io/badge/Citations-1100%2B-2C8C78?style=flat-square" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">
+    <img src="https://img.shields.io/badge/h--index-20-2C8C78?style=flat-square" />
+  </a>
+  <a href="https://patents.google.com/?inventor=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87+%D0%A7%D1%83%D0%B1%D0%B0%D1%80%D0%BE%D0%B2">
+    <img src="https://img.shields.io/badge/Patents-4%20Granted%20%2B%201%20Pending-8064A2?style=flat-square" />
+  </a>
+</p>
+
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
 
@@ -246,24 +265,6 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 </details>
 
 📍 Berlin, Germany
-
-<h4 align="center">RESEARCH AT A GLANCE</h4>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Research-10%2B_years-555555?style=flat-square" />
-  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">
-    <img src="https://img.shields.io/badge/Publications-40%2B-3569A8?style=flat-square" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">
-    <img src="https://img.shields.io/badge/Citations-1100%2B-2C8C78?style=flat-square" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">
-    <img src="https://img.shields.io/badge/h--index-20-2C8C78?style=flat-square" />
-  </a>
-  <a href="https://patents.google.com/?inventor=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9+%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87+%D0%A7%D1%83%D0%B1%D0%B0%D1%80%D0%BE%D0%B2">
-    <img src="https://img.shields.io/badge/Patents-4%20Granted%20%2B%201%20Pending-8064A2?style=flat-square" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">Google Scholar</a> &nbsp;·&nbsp;

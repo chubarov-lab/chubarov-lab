@@ -130,7 +130,7 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
    [Patent record](https://searchplatform.rospatent.gov.ru/doc/RU2599500C1_20161010)
 </details>
 <details>
-<summary><strong>Publications</strong></summary>
+<summary><strong>Selected Publications</strong></summary>
 <details>
  <summary><strong>Selected & Notable Publications</strong></summary> 
 

@@ -12,6 +12,8 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · Chemical Biology & Bioconjugation · Protein Chemistry & Biomolecular Engineering · Structural Biophysics · Cancer Imaging 
 
 📍 Berlin, Germany · **Open to Scientist roles in industry R&D, Germany**
+Current position: Research Scientist / Wissenschaftlicher Mitarbeiter (Structural Biophysics), **Freie Universität Berlin, Department of Physics**
+**English** – Professional working proficiency; **German** – B1 in progress (B1.1 course at Freie Universität Berlin); **Russian** – native
 
 <h4 align="center">RESEARCH AT A GLANCE</h4>
 

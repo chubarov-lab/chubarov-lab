@@ -22,8 +22,10 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - DNA extraction from FFPE tissue
 
 **Molecular Biology**
+- Characterization of biomolecules and interactions
 - DNA/RNA isolation on magnetic beads
 - Familiar with ELISA and western blot
+- 
 **Biotechnology**
 - E. coli, mutagenesis, plasmid isolation, transformation
 - Recombinant protein expression/isolation
@@ -42,20 +44,21 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Wet chemistry techniques
  
 **Biophysics & Analytical Methods**
-- Characterization of biomolecules and interactions
 - UV–Vis, UV melting analysis of oligonucleotide duplexes
 - FTIR, dynamic light scattering (DLS)
-- circular dichroism (CD),
+- circular dichroism (CD), LC-MS, MALDI-TOF
 - NMR (<sup>19</sup>F, <sup>31</sup>P, <sup>1</sup>H, <sup>13</sup>C), 2D NMR
 - MRI probes for <sup>19</sup>F and <sup>1</sup>H, relaxivity
 - Fluorescence, titration/quenching (binding affinity, Kd)
 - Basics fluorescence microscopy, and imaging
--
-- EPR, CW-EPR, PELDOR/DEER
-- HPLC, SEC, LC-MS, MALDI-TOF
+- in-cell EPR, CW-EPR, PELDOR/DEER
+
+**Analytics & Purification**
+
+- Analytics & Purification: chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel); mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS); electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA)); radical formation (UV–Vis, methyl viologen); protein aggregation/amyloid (Congo red, thioflavin T, ANS assays). 
 
 in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), 
- 
+ Spectroscopy & Biophysics: spectroscopic characterization of biomolecular structures and interactions; UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
 
 **Drug Delivery & Nanomedicine**
 - Magnetic nanoparticles and nanocomposites

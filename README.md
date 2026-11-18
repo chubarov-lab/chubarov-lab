@@ -37,10 +37,13 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Radical formation (UV–Vis, methyl viologen)
 - Protein aggregation/amyloid (Congo red, thioflavin T, ANS assays)
 
-**Quality & Documentation**
-- good documentation practice
-- SOP-style method writing, method validation
-- GxP/GMP fundamentals, ALCOA+
+**Computational Tools**
+- Scientific computing, data analysis, AI-assisted coding, and visualization
+- Python, MATLAB, PyMOL, OriginLab, ChemOffice, Topspin, etc.
+- AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3),
+- Basic training in molecular dynamics simulations
+- Scientific database and literature search (e.g., Reaxys)
+
 </td>
 <td width="50%" valign="top">
  
@@ -64,15 +67,15 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Magnetic nanoparticles and nanocomposites (MNP)
 - Synthesis and characterization of MNP
 - Сoating: inorganic, polymers, and biomolecules (bioinspired)
-- Non- and sequence-specific nucleic acid extraction (MSPE) on beads
+- Non- and sequence-specific nucleic acid extraction (MSPE)
 - Albumin-based nanocarriers
 - Drug loading and pH-triggered release
 - Molecularly imprinted polymers
 
-**Computational Tools**
-- Scientific computing, data analysis, AI-assisted coding, and visualization
-- Python, MATLAB, AlphaFold 3, PyMOL, OriginLab
--  AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3), MATLAB, OriginLab, PyMOL, ChemOffice, Topspin, etc.; molecular dynamics simulations (basic); scientific database and literature search (e.g., Reaxys). 
+**Quality & Documentation**
+- good documentation practice
+- SOP-style method writing, method validation
+- GxP/GMP fundamentals, ALCOA+
 
 </td>
 </tr>

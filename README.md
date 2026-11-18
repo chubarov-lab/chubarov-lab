@@ -143,7 +143,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <details>
 <summary><strong>Selected Publications by Research Area</strong></summary>
 
- #### PCR Diagnostics & Oligonucleotides Capture
+ #### PCR Diagnostics & Oligonucleotide Capture/Chemistry
 
 - **Phosphoramidate Azole Oligonucleotides for Single Nucleotide Polymorphism Detection by PCR**  
   *International Journal of Molecular Sciences*, 2024.
@@ -178,19 +178,28 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - **Revealing Light-Induced Structural Shifts in G-Quadruplex-Porphyrin Complexes: A Pulsed Dipolar EPR Study**  
   *Physical Chemistry Chemical Physics*, 2023.
   [DOI: 10.1039/D3CP01775C](https://doi.org/10.1039/D3CP01775C)
-- **Application of EPR to Porphyrin-Protein Agents for Photodynamic Therapy**  
-  *Journal of Photochemistry and Photobiology B: Biology*, 2020.  
-  [DOI: 10.1016/j.jphotobiol.2020.112008](https://doi.org/10.1016/j.jphotobiol.2020.112008)
 - **Application of W-Band 19F Electron Nuclear Double Resonance (ENDOR) Spectroscopy to Distance Measurement Using a Trityl Spin Probe and a Fluorine Label**  
   *Physical Chemistry Chemical Physics*, 2022.  
   [DOI: 10.1039/D1CP05445G](https://doi.org/10.1039/D1CP05445G)
+- **Application of EPR to Porphyrin-Protein Agents for Photodynamic Therapy**  
+  *Journal of Photochemistry and Photobiology B: Biology*, 2020.  
+  [DOI: 10.1016/j.jphotobiol.2020.112008](https://doi.org/10.1016/j.jphotobiol.2020.112008)
 
 #### Drug Delivery & Nanomedicine
 
 - **pH-Responsible Doxorubicin-Loaded Fe3O4@CaCO3 Nanocomposites for Cancer Treatment**  
   *Pharmaceutics*, 2023.
   [DOI: 10.3390/pharmaceutics15030771](https://doi.org/10.3390/pharmaceutics15030771)
-
+- **Magnetic Nanocomposites and Imprinted Polymers for Biomedical Applications of Nucleic Acids**  
+  *Magnetochemistry*, 2023.  
+  [DOI: 10.3390/magnetochemistry9010012](https://doi.org/10.3390/magnetochemistry9010012)
+- **Doxorubicin-Loaded Silica Nanocomposites for Cancer Treatment**  
+  *Coatings*, 2023.  
+  [DOI: 10.3390/coatings13020324](https://doi.org/10.3390/coatings13020324)
+- **Preparation of Magnetic Molecularly Imprinted Polymer for Methylene Blue Capture**  
+  *Magnetochemistry*, 2023.  
+  [DOI: 10.3390/magnetochemistry9080196](https://doi.org/10.3390/magnetochemistry9080196)
+  
 ---
 </details>
 </details>

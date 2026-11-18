@@ -42,12 +42,12 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
  
 **Biophysics & Analytical Methods**
 - UV–Vis, UV melting analysis of oligonucleotide duplexes
+- Fluorescence, titration/quenching (binding affinity, Kd)
+- Basics fluorescence microscopy, and imaging
 - FTIR, dynamic light scattering (DLS)
 - circular dichroism (CD), LC-MS, MALDI-TOF
 - NMR (<sup>19</sup>F, <sup>31</sup>P, <sup>1</sup>H, <sup>13</sup>C), 2D NMR
 - MRI probes for <sup>19</sup>F and <sup>1</sup>H, relaxivity
-- Fluorescence, titration/quenching (binding affinity, Kd)
-- Basics fluorescence microscopy, and imaging
 - in-cell EPR, CW-EPR, PELDOR/DEER
 
 **Analytics & Purification**

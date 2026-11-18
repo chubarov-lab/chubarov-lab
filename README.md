@@ -110,7 +110,10 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
  
 ## Selected Publications in Leading Journals
 
-- **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**  
+- **Dimerization and transporter engagement of the energy transducer TonB in intact E. coli cells**
+  *Under Review*, 2026
+
+- **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**
   *Journal of the American Chemical Society*, 2025.  
   [DOI: 10.1021/jacs.5c01274](https://doi.org/10.1021/jacs.5c01274)
 

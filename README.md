@@ -124,31 +124,28 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   <sub>Citation counts according to Google Scholar, November 2026.</sub>
 
 ## Most Cited Publications (50+ citations)
-1. **[Magnetite Nanoparticles for Biomedical Applications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:qxL8FJ1GzNcC)**  
-   KD Petrov, AS Chubarov  
-   *Encyclopedia*, 2022, 2(4), 1811–1828. **102 citations**
+- **Magnetite Nanoparticles for Biomedical Applications**  
+  *Encyclopedia*, 2022. **102 citations**
 
-2. **[Serum Albumin for Magnetic Nanoparticles Coating](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:YOwf2qJgpHMC)**  
-   AS Chubarov  
-   *Magnetochemistry*, 2022, 8(2), 13. **88 citations**
+- **Serum Albumin for Magnetic Nanoparticles Coating**  
+  *Magnetochemistry*, 2022. **88 citations**
 
-3. **[Reversible Dimerization of Human Serum Albumin](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:W7OEmFMy1HYC)**  
-   A Chubarov, A Spitsyna, O Krumkacheva, D Mitin, D Suvorov, et al.  
-   *Molecules*, 2020, 26(1), 108. **79 citations**
-4. **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**
-  *Chemistry – A European Journal*, 2020.  
+- **Reversible Dimerization of Human Serum Albumin**  
+  *Molecules*, 2020. **79 citations**  
+  [DOI: 10.3390/molecules26010108](https://doi.org/10.3390/molecules26010108)
+
+- **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**  
+  *Chemistry – A European Journal*, 2020. **68 citations**  
   [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
 
-5. **[High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:aqlVkmm33-oC)**  
-   E Kovrigina, A Chubarov, E Dmitrienko  
-   *Magnetochemistry*, 2022, 8(5), 54. **58 citations**
+- **High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy**  
+  *Magnetochemistry*, 2022. **58 citations**
 
-6. **[Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:Se3iqnhoufwC)**  
-   AS Chubarov, IP Oscorbin, ML Filipenko, AA Lomzov, DV Pyshnyi  
-   *Diagnostics*, 2020, 10(11), 872. **54 citations**
+- **Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
+  *Diagnostics*, 2020. **54 citations**
 
 <sub>Citation counts according to Google Scholar, November 2026.</sub>
-
+  
 ## Cheminformatics & Scientific Education
 
 **Basic Cheminformatics Course for First-Year Chemistry Students**  

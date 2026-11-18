@@ -82,7 +82,7 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 - UV–Vis, UV melting analysis of oligonucleotide duplexes
 - Fluorescence, titration/quenching (binding affinity, Kd)
 - FTIR, dynamic light scattering (DLS), circular dichroism (CD)
-- NMR (^{19}F, ^{31}P, ^{1}H, ^{13}C), 2D NMR, MRI (^{19}F and ^{1}H), relaxivity
+- NMR (¹⁹F, ³¹P, ¹H, ¹³C), 2D NMR, MRI (¹⁹F and ¹H), relaxivity
 - in-cell EPR, CW-EPR, PELDOR; LC-MS, MALDI-TOF
 - Basics fluorescence microscopy, and imaging
 - Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR)

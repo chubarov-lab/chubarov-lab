@@ -18,6 +18,14 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - cut-off determination, detection limit, sensitivity, specificity
 - DNA/RNA isolation on magnetic beads
 - DNA extraction from FFPE tissue
+- Familiar with ELISA and western blot
+
+**Biotechnology**
+- E. coli, mutagenesis, plasmid isolation, transformation
+- Recombinant protein expression/isolation
+- Bacterial viability assays
+- Basic training in mammalian cell culture
+- Familiar with MTT assay and flow cytometry
 
 **Chemical Biology & Bioconjugation**
 - Protein and nucleic acid modification
@@ -38,18 +46,16 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Python, MATLAB, AlphaFold 3, PyMOL, OriginLab
 
 **Quality & Documentation**
-- SOP development, method validation
+- good documentation practice
+- SOP-style method writing, method validation
 - GxP/GMP fundamentals, ALCOA+
 
-- Molecular Biology & Diagnostics: protein and nucleic acid isolation, purification, and characterization; preparation of magnetic nanocomposites for non- and sequence-specific nucleic acid extraction (MSPE); DNA extraction from FFPE tissue, dPCR; familiar with ELISA and western blot. 
-Biotechnology: E. coli, mutagenesis, plasmid isolation, transformation; recombinant protein expression/isolation; bacterial viability assays; basic training in mammalian cell culture (MCF-7, T98G, and A-549 cells). Familiar with MTT assay and flow cytometry.
+- Molecular Biology & Diagnostics: protein and nucleic acid isolation, purification, and characterization; preparation of magnetic nanocomposites for non- and sequence-specific nucleic acid extraction (MSPE); 
 Chemical Biology & Synthetic Chemistry: Bioconjugation; chemical modification and site-directed labeling of proteins, nucleic acids, and polymers (spin labels, dyes, and antibiotics); molecular probe design; synthesis of click chemistry reagents; micro-scale organic synthesis and wet chemistry techniques; solid-phase oligonucleotide synthesis.
 Spectroscopy & Biophysics: spectroscopic characterization of biomolecular structures and interactions; UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
 Analytics & Purification: chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel); mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS); electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA)); radical formation (UV–Vis, methyl viologen); protein aggregation/amyloid (Congo red, thioflavin T, ANS assays). 
 Nanomaterials for Biomedical Applications: drug delivery; synthesis and characterization of magnetic nanoparticles; coating with inorganic compounds, polymers, and biomolecules; drug loading and pH-triggered release; molecularly imprinted polymers
 Computational: Python (scientific computing, data analysis, AI-assisted coding, and visualization), AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3), MATLAB, OriginLab, PyMOL, ChemOffice, Topspin, etc.; molecular dynamics simulations (basic); scientific database and literature search (e.g., Reaxys). 
-Quality & Documentation: good documentation practice, SOP-style method writing, basic knowledge of GxP/GMP and ALCOA+
-
 
 </details>
 <details>

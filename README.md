@@ -14,8 +14,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Solid-phase oligonucleotide synthesis
 - Modified oligonucleotides, primer, blocker, and probe design
 - qPCR, dPCR, PCR assay development and validation 
-- PCR performance evaluation, PCR efficiency,
-- cut-off determination, detection limit, sensitivity, specificity
+- PCR performance evaluation, sensitivity, specificity, etc.
 - DNA/RNA isolation on magnetic beads
 - DNA extraction from FFPE tissue
 - Familiar with ELISA and western blot
@@ -31,11 +30,18 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Protein and nucleic acid modification
 - Bioconjugation and site-directed labeling
 - Molecular probe design, click chemistry
+- Micro-scale organic synthesis
+- Wet chemistry techniques
 
 **Biophysics & Analytical Methods**
+- Characterization of biomolecules and interactions
+- UV–Vis, FTIR, NMR (<sup>19</sup>F, <sup>31</sup>P, <sup>1</sup>H, <sup>13</sup>C), 2D NMR
+- MRI probes for <sup>19</sup>F and <sup>1</sup>H, relaxivity
 - EPR, CW-EPR, PELDOR/DEER
 - Fluorescence, UV–Vis, CD, FTIR, NMR
 - HPLC, SEC, LC-MS, MALDI-TOF, DLS
+
+ UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
 
 **Drug Delivery & Nanomedicine**
 - Magnetic nanoparticles and nanocomposites
@@ -50,8 +56,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - SOP-style method writing, method validation
 - GxP/GMP fundamentals, ALCOA+
 
-- Molecular Biology & Diagnostics: protein and nucleic acid isolation, purification, and characterization; preparation of magnetic nanocomposites for non- and sequence-specific nucleic acid extraction (MSPE); 
-Chemical Biology & Synthetic Chemistry: Bioconjugation; chemical modification and site-directed labeling of proteins, nucleic acids, and polymers (spin labels, dyes, and antibiotics); molecular probe design; synthesis of click chemistry reagents; micro-scale organic synthesis and wet chemistry techniques; solid-phase oligonucleotide synthesis.
+preparation of magnetic nanocomposites for non- and sequence-specific nucleic acid extraction (MSPE); 
 Spectroscopy & Biophysics: spectroscopic characterization of biomolecular structures and interactions; UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
 Analytics & Purification: chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel); mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS); electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA)); radical formation (UV–Vis, methyl viologen); protein aggregation/amyloid (Congo red, thioflavin T, ANS assays). 
 Nanomaterials for Biomedical Applications: drug delivery; synthesis and characterization of magnetic nanoparticles; coating with inorganic compounds, polymers, and biomolecules; drug loading and pH-triggered release; molecularly imprinted polymers

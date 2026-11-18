@@ -69,7 +69,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Сoating: inorganic, polymers, and biomolecules (bioinspired)
 - Molecularly imprinted polymers
 - Non- and sequence-specific nucleic acid extraction (MSPE)
-- Albumin-based multifunctional nanocarriers for MRI and therapy
+- Albumin-based multifunctional carriers for MRI and therapy
 - Constructions for cancer imaging and treatment (theranostics)
 - Drug loading and pH-triggered release
 

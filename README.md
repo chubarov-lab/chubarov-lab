@@ -187,19 +187,42 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 #### Drug Delivery & Nanomedicine
 
+- **Synthesis of Magnetic Nanoparticles Coated with Human Serum Albumin and Loaded by Doxorubicin**  
+  *Magnetochemistry*, 2025.
+  [DOI: 10.3390/magnetochemistry11020013](https://doi.org/10.3390/magnetochemistry11020013)
 - **pH-Responsible Doxorubicin-Loaded Fe3O4@CaCO3 Nanocomposites for Cancer Treatment**  
   *Pharmaceutics*, 2023.
   [DOI: 10.3390/pharmaceutics15030771](https://doi.org/10.3390/pharmaceutics15030771)
 - **Magnetic Nanocomposites and Imprinted Polymers for Biomedical Applications of Nucleic Acids**  
-  *Magnetochemistry*, 2023.  
+  *Magnetochemistry*, 2023.
   [DOI: 10.3390/magnetochemistry9010012](https://doi.org/10.3390/magnetochemistry9010012)
 - **Doxorubicin-Loaded Silica Nanocomposites for Cancer Treatment**  
-  *Coatings*, 2023.  
+  *Coatings*, 2023.
   [DOI: 10.3390/coatings13020324](https://doi.org/10.3390/coatings13020324)
 - **Preparation of Magnetic Molecularly Imprinted Polymer for Methylene Blue Capture**  
-  *Magnetochemistry*, 2023.  
+  *Magnetochemistry*, 2023.
   [DOI: 10.3390/magnetochemistry9080196](https://doi.org/10.3390/magnetochemistry9080196)
-  
+
+ #### MRI Contrast Agents & Molecular Imaging
+
+- **Nitroxide-Based Contrast Agents for MRI Cancer Diagnostics: Progress, Limitations, and Perspectives**  
+  *Molecules*, 2026.
+  [DOI: 10.3390/molecules31060942](https://doi.org/10.3390/molecules31060942)
+- **Contrast Agents Based on Human Serum Albumin and Nitroxides for 1H-MRI and Overhauser-Enhanced MRI**  
+  *International Journal of Molecular Sciences*, 2024.
+  [DOI: 10.3390/ijms25074041](https://doi.org/10.3390/ijms25074041)
+- **Fluorinated Human Serum Albumin as Potential 19F Magnetic Resonance Imaging Probe**  
+  *Molecules*, 2023.
+  [DOI: 10.3390/molecules28041695](https://doi.org/10.3390/molecules28041695)
+- **Human Serum Albumin Labelled with Sterically-Hindered Nitroxides as Potential MRI Contrast Agents**  
+  *Molecules*, 2020.
+  [DOI: 10.3390/molecules25071709](https://doi.org/10.3390/molecules25071709)
+- **Design of Protein Homocystamides with Enhanced Tumor Uptake Properties for 19F Magnetic Resonance Imaging**  
+  *Bioorganic & Medicinal Chemistry*, 2015.
+  [DOI: 10.1016/j.bmc.2015.09.043](https://doi.org/10.1016/j.bmc.2015.09.043)
+- **Synthesis and Characterization of Fluorinated Homocysteine Derivatives as Potential Molecular Probes for 19F Magnetic Resonance Spectroscopy and Imaging**  
+  *Bioorganic & Medicinal Chemistry Letters*, 2011.
+  [DOI: 10.1016/j.bmcl.2011.04.119](https://doi.org/10.1016/j.bmcl.2011.04.119)
 ---
 </details>
 </details>

@@ -7,35 +7,12 @@
 PhD scientist with 10+ years of interdisciplinary experience in bioorganic chemistry, biochemistry, structural biology, nanomedicine, and biomedical research. Experienced in developing molecular diagnostics, functional nanomaterials, drug delivery platforms, and biomolecular probes.
 My research combines experimental chemistry, molecular biology, spectroscopy, and computational approaches to translate fundamental research into biomedical and pharmaceutical applications.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
-
-<div>
-
-**PCR Diagnostics**
-- Solid-phase oligonucleotide synthesis
-- Modified oligonucleotides
-- qPCR, dPCR
-
-</div>
-
-<div>
-
-**Biophysics & Analytical Methods**
-- EPR, CW-EPR, PELDOR/DEER
-- UV–Vis, NMR
-- HPLC, SEC, LC-MS
-
-</div>
-
-</div>
-
-
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
 
-<table border="0" cellpadding="10" cellspacing="0">
+<table>
 <tr>
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top">
  
 **PCR Diagnostics**
 - Solid-phase oligonucleotide synthesis
@@ -63,7 +40,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Wet chemistry techniques
 
 </td>
-<td width="50%" valign="top" style="border: none;">
+<td width="50%" valign="top">
  
 **Biophysics & Analytical Methods**
 - Characterization of biomolecules and interactions

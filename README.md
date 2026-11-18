@@ -84,9 +84,6 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 </details>
 <details>
-<summary><strong>Selected Publications</strong></summary>
- 
-<details>
 <summary><strong>Patents</strong></summary>
 1. **Human Serum Albumin-Based Nanocomposite for Multimodal Diagnosis and Chemotherapy of Oncological Diseases**  
    Application No. 2026124499 (filed 2026)  
@@ -108,7 +105,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
    RU 2599500 C1 (published October 2016)  
    [Patent record](https://searchplatform.rospatent.gov.ru/doc/RU2599500C1_20161010)
 </details>
-
+<details>
+<summary><strong>Selected Publications</strong></summary>
+ 
 1. **Basic Cheminformatics Course for First-Year Chemistry Students**  
    *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
    [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)

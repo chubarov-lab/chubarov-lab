@@ -9,7 +9,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 #### Research Areas
 
-**PCR Diagnostics & Oligonucleotide Chemistry** · **Drug Delivery & Nanomedicine** · **Chemical Biology & Bioconjugation** · **Protein Chemistry & Biomolecular Engineering** · **Structural Biophysics** · **Molecular Imaging**
+**PCR Diagnostics & Oligonucleotide Chemistry** · **Drug Delivery & Nanomedicine** · **Chemical Biology & Bioconjugation** · **Protein Chemistry & Biomolecular Engineering** · **Structural Biophysics** · **Cancer Imaging**
 
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
@@ -143,7 +143,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Diagnostics*, 2020. **54 citations**
   [DOI: 10.3390/diagnostics10110872](https://doi.org/10.3390/diagnostics10110872)  
 <sub>Citation counts according to Google Scholar, November 2026.</sub>
-  
+
+<details>
+<summary><strong>Publications by Research Area</strong></summary>
 #### Molecular Diagnostics & Oligonucleotide Chemistry
 
 - **Phosphoramidate Azole Oligonucleotides for Single Nucleotide Polymorphism Detection by PCR**  
@@ -209,7 +211,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   [DOI: 10.3390/pharmaceutics15030771](https://doi.org/10.3390/pharmaceutics15030771)
 
 ---
-
+</details>
 [Full publication list — Google Scholar](https://scholar.google.com/citations?user=OBtmliMAAAAJ)
 </details>
 📍 Berlin, Germany

@@ -31,9 +31,11 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Familiar with ELISA, western blot, MTT assay and flow cytometry
 
 **Analytics & Purification**
-
-- Analytics & Purification: chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel); mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS); electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA)); radical formation (UV–Vis, methyl viologen); protein aggregation/amyloid (Congo red, thioflavin T, ANS assays). 
-
+- Chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel)
+- Mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS)
+- Electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA))
+- Radical formation (UV–Vis, methyl viologen)
+- Protein aggregation/amyloid (Congo red, thioflavin T, ANS assays) 
 </td>
 <td width="50%" valign="top">
  

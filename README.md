@@ -83,14 +83,14 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 - Fluorescence, titration/quenching (binding affinity, Kd)
 - FTIR, dynamic light scattering (DLS), circular dichroism (CD)
 - NMR (¹⁹F, ³¹P, ¹H, ¹³C), 2D NMR, MRI (¹⁹F and ¹H), relaxivity
-- in-cell EPR, CW-EPR, PELDOR; LC-MS, MALDI-TOF
-- Basics fluorescence microscopy, and imaging
+- in-cell EPR, CW-EPR, PELDOR
+- Basics of fluorescence microscopy and imaging
 - Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR)
 
 **Drug Delivery & Nanomedicine**
 - Magnetic nanoparticles and nanocomposites (MNP)
 - Synthesis and characterization of MNP
-- Сoating: inorganic, polymers, and biomolecules (bioinspired)
+- Coating: inorganic, polymers, and biomolecules (bioinspired)
 - Molecularly imprinted polymers
 - Non- and sequence-specific nucleic acid extraction (MSPE)
 - Albumin-based multifunctional carriers for MRI and therapy
@@ -137,12 +137,11 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 - **Dimerization and transporter engagement of the energy transducer TonB in intact E. coli cells**
   *Under Review*, 2026
 - **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**
-  *Journal of the American Chemical Society*, 2025. **7 citations**
+  *Journal of the American Chemical Society*, 2025.
   [DOI: 10.1021/jacs.5c01274](https://doi.org/10.1021/jacs.5c01274)
 - **Triplet Fullerenes as Prospective Spin Labels for Nanoscale Distance Measurements by Pulsed Dipolar EPR Spectroscopy**
-  *Angewandte Chemie International Edition*, 2019.  **68 citations**
+  *Angewandte Chemie International Edition*, 2019.
   [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)  
-  <sub>Citation counts according to Google Scholar, November 2026.</sub>
 </details>
 <details>
 <summary><strong>Most Cited Publications</strong></summary>
@@ -160,6 +159,9 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 - **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**
   *Chemistry – A European Journal*, 2020. **68 citations**
   [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
+- **Triplet Fullerenes as Prospective Spin Labels for Nanoscale Distance Measurements by Pulsed Dipolar EPR Spectroscopy**
+  *Angewandte Chemie International Edition*, 2019.  **68 citations**
+  [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)  
 - **High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy**
   *Magnetochemistry*, 2022. **58 citations**
   [DOI: 10.3390/magnetochemistry8050054](https://doi.org/10.3390/magnetochemistry8050054)
@@ -258,9 +260,9 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
   *Bioorganic & Medicinal Chemistry Letters*, 2011.
   [DOI: 10.1016/j.bmcl.2011.04.119](https://doi.org/10.1016/j.bmcl.2011.04.119)
 
-#### Chemical Education & Computations
+  #### Chemical Education & Computations
 
-**Basic Cheminformatics Course for First-Year Chemistry Students**  
+- **Basic Cheminformatics Course for First-Year Chemistry Students**  
   *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
   [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
   

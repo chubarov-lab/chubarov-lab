@@ -106,8 +106,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
    [Patent record](https://searchplatform.rospatent.gov.ru/doc/RU2599500C1_20161010)
 </details>
 <details>
-<summary><strong>Selected & Notable Publications</strong></summary>
- 
+<summary><strong>Publications</strong></summary>
+<details>
+ <summary><strong>Selected & Notable Publications</strong></summary> 
 #### Publications in Leading Journals
 - **Dimerization and transporter engagement of the energy transducer TonB in intact E. coli cells**
   *Under Review*, 2026
@@ -139,7 +140,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Diagnostics*, 2020. **54 citations**
   [DOI: 10.3390/diagnostics10110872](https://doi.org/10.3390/diagnostics10110872)  
 <sub>Citation counts according to Google Scholar, November 2026.</sub>
-
+</details>
 <details>
 <summary><strong>Selected Publications by Research Area</strong></summary>
 

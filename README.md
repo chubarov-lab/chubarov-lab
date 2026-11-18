@@ -142,31 +142,25 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 <details>
 <summary><strong>Selected Publications by Research Area</strong></summary>
-#### Molecular Diagnostics & Oligonucleotide Chemistry
+
+ #### PCR Diagnostics & Oligonucleotides Capture
 
 - **Phosphoramidate Azole Oligonucleotides for Single Nucleotide Polymorphism Detection by PCR**  
   *International Journal of Molecular Sciences*, 2024.
   [DOI: 10.3390/ijms25010617](https://doi.org/10.3390/ijms25010617)
 
-- **Pulsed Dipolar EPR for Self-Limited Complexes of Oligonucleotides Studies**  
-  *Biomolecules*, 2024.
-  [DOI: 10.3390/biom14080887](https://doi.org/10.3390/biom14080887)
 - **Allele-Specific PCR for PIK3CA Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
   *Diagnostics*, 2023.
   [DOI: 10.3390/diagnostics13020250](https://doi.org/10.3390/diagnostics13020250)
-
-- **Self-Penetrating Oligonucleotide Derivatives: Features of Self-Assembly and Interactions with Serum and Intracellular Proteins**  
-  *Pharmaceutics*, 2023.
-  [DOI: 10.3390/pharmaceutics15122779](https://doi.org/10.3390/pharmaceutics15122779)
-
-- **Revealing Light-Induced Structural Shifts in G-Quadruplex-Porphyrin Complexes: A Pulsed Dipolar EPR Study**  
-  *Physical Chemistry Chemical Physics*, 2023.
-  [DOI: 10.1039/D3CP01775C](https://doi.org/10.1039/D3CP01775C)
 
 - **Solution pH Effect on Drain-Gate Characteristics of SOI FET Biosensor**  
   *Electronics*, 2023. 
   [DOI: 10.3390/electronics12030777](https://doi.org/10.3390/electronics12030777)
 
+- **Self-Penetrating Oligonucleotide Derivatives: Features of Self-Assembly and Interactions with Serum and Intracellular Proteins**  
+  *Pharmaceutics*, 2023.
+  [DOI: 10.3390/pharmaceutics15122779](https://doi.org/10.3390/pharmaceutics15122779)
+  
 - **Magnetic Nylon 6 Nanocomposites for the Microextraction of Nucleic Acids from Biological Samples**  
   *Magnetochemistry*, 2022.
   [DOI: 10.3390/magnetochemistry8080085](https://doi.org/10.3390/magnetochemistry8080085)
@@ -175,7 +169,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Magnetochemistry*, 2021.
   [DOI: 10.3390/magnetochemistry7090128](https://doi.org/10.3390/magnetochemistry7090128)
 
-#### Cheminformatics & Scientific Education
+#### Cheminformatics & Computations
 
 **Basic Cheminformatics Course for First-Year Chemistry Students**  
   *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
@@ -186,22 +180,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - **Pulsed Dipolar EPR for Self-Limited Complexes of Oligonucleotides Studies**  
   *Biomolecules*, 2024.
   [DOI: 10.3390/biom14080887](https://doi.org/10.3390/biom14080887)
-
-- **Reversible Dimerization of Human Serum Albumin**  
-  *Molecules*, 2021.
-  [DOI: 10.3390/molecules26010108](https://doi.org/10.3390/molecules26010108)
-  - **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**
-  *Chemistry – A European Journal*, 2020.
-  [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
-
-#### Molecular Diagnostics & Oligonucleotide Chemistry
-
-- **Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
-  *Diagnostics*, 2020.
-
-- **Allele-Specific PCR for PIK3CA Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
-  *Diagnostics*, 2023.
-  [DOI: 10.3390/diagnostics13020250](https://doi.org/10.3390/diagnostics13020250)
+- **Revealing Light-Induced Structural Shifts in G-Quadruplex-Porphyrin Complexes: A Pulsed Dipolar EPR Study**  
+  *Physical Chemistry Chemical Physics*, 2023.
+  [DOI: 10.1039/D3CP01775C](https://doi.org/10.1039/D3CP01775C)
 
 #### Drug Delivery & Nanomedicine
 

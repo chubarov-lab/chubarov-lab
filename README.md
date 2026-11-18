@@ -11,10 +11,13 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <summary><strong>Technical Skills & Methods</strong></summary>
 
 **Molecular Biology & Diagnostics**
-- qPCR, dPCR, PCR assay development, validation, and performance evaluation
-- PCR efficiency, cut-off determination, detection limit, sensitivity, specificity
+- Solid-phase oligonucleotide synthesis
 - Modified oligonucleotides, primer, blocker, and probe design
-- DNA/RNA isolation, FFPE tissue analysis
+- qPCR, dPCR, PCR assay development and validation 
+- PCR performance evaluation, PCR efficiency,
+- cut-off determination, detection limit, sensitivity, specificity
+- DNA/RNA isolation on magnetic beads
+- DNA extraction from FFPE tissue
 
 **Chemical Biology & Bioconjugation**
 - Protein and nucleic acid modification

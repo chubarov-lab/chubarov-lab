@@ -35,13 +35,19 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 **Biophysics & Analytical Methods**
 - Characterization of biomolecules and interactions
-- UV–Vis, FTIR, NMR (<sup>19</sup>F, <sup>31</sup>P, <sup>1</sup>H, <sup>13</sup>C), 2D NMR
+- UV–Vis, UV melting analysis of oligonucleotide duplexes
+- FTIR, dynamic light scattering (DLS)
+- circular dichroism (CD),
+- NMR (<sup>19</sup>F, <sup>31</sup>P, <sup>1</sup>H, <sup>13</sup>C), 2D NMR
 - MRI probes for <sup>19</sup>F and <sup>1</sup>H, relaxivity
+- Fluorescence, titration/quenching (binding affinity, Kd)
+- Basics fluorescence microscopy, and imaging
+-
 - EPR, CW-EPR, PELDOR/DEER
-- Fluorescence, UV–Vis, CD, FTIR, NMR
-- HPLC, SEC, LC-MS, MALDI-TOF, DLS
+- HPLC, SEC, LC-MS, MALDI-TOF
 
- UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
+in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), 
+ 
 
 **Drug Delivery & Nanomedicine**
 - Magnetic nanoparticles and nanocomposites

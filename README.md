@@ -1,6 +1,6 @@
 ## Hi I'm Alexey Chubarov. 
 ### PhD in Chemistry
-**Biopharmaceutical R&D | Chemical Biology | Molecular Diagnostics | Drug Delivery & Nanomedicine| Structural Biophysics |Python**
+**Biopharmaceutical R&D | Chemical Biology | Molecular Diagnostics | Drug Delivery & Nanomedicine | Structural Biophysics | Python**
 
 🧬 *Bridging Chemistry, Biology, Biophysics & Computational Science*
 

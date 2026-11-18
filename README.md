@@ -114,15 +114,35 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Under Review*, 2026
 
 - **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**
-  *Journal of the American Chemical Society*, 2025.  
+  *Journal of the American Chemical Society*, 2025. cited 7 times <sub>Citation counts according to Google Scholar, November 2026.</sub>
   [DOI: 10.1021/jacs.5c01274](https://doi.org/10.1021/jacs.5c01274)
 
 - **Triplet Fullerenes as Prospective Spin Labels for Nanoscale Distance Measurements by Pulsed Dipolar EPR Spectroscopy**
-  *Angewandte Chemie International Edition*, 2019.  
+  *Angewandte Chemie International Edition*, 2019.  cited 68 times <sub>Citation counts according to Google Scholar, November 2026.</sub>
   [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)
 
 ## Most Cited Publications (50+ citations)
+1. **[Magnetite Nanoparticles for Biomedical Applications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:qxL8FJ1GzNcC)**  
+   KD Petrov, AS Chubarov  
+   *Encyclopedia*, 2022, 2(4), 1811–1828. **102 citations**
 
+2. **[Serum Albumin for Magnetic Nanoparticles Coating](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:YOwf2qJgpHMC)**  
+   AS Chubarov  
+   *Magnetochemistry*, 2022, 8(2), 13. **88 citations**
+
+3. **[Reversible Dimerization of Human Serum Albumin](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:W7OEmFMy1HYC)**  
+   A Chubarov, A Spitsyna, O Krumkacheva, D Mitin, D Suvorov, et al.  
+   *Molecules*, 2020, 26(1), 108. **79 citations**
+
+4. **[High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:aqlVkmm33-oC)**  
+   E Kovrigina, A Chubarov, E Dmitrienko  
+   *Magnetochemistry*, 2022, 8(5), 54. **58 citations**
+
+5. **[Allele-Specific PCR for KRAS Mutation Detection Using Phosphoryl Guanidine Modified Primers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OBtmliMAAAAJ&citation_for_view=OBtmliMAAAAJ:Se3iqnhoufwC)**  
+   AS Chubarov, IP Oscorbin, ML Filipenko, AA Lomzov, DV Pyshnyi  
+   *Diagnostics*, 2020, 10(11), 872. **54 citations**
+
+<sub>Citation counts according to Google Scholar, November 2026.</sub>
 
 ## Cheminformatics & Scientific Education
 

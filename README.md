@@ -64,7 +64,7 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 **Computational Tools**
 - Scientific computing, data analysis, AI-assisted coding, and visualization
 - Python, MATLAB, PyMOL, OriginLab, ChemOffice, Topspin
-- AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3),
+- AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3)
 - Basic training in molecular dynamics simulations
 - Scientific database and literature search (e.g., Reaxys)
 
@@ -94,11 +94,11 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 - Molecularly imprinted polymers
 - Non- and sequence-specific nucleic acid extraction (MSPE)
 - Albumin-based multifunctional carriers for MRI and therapy
-- Constructions for cancer imaging and treatment (theranostics)
+- Platforms for cancer imaging and treatment (theranostics)
 - Drug loading and pH-triggered release
 
 **Quality & Documentation**
-- good documentation practice
+- Good documentation practice
 - SOP-style method writing, method validation
 - GxP/GMP fundamentals, ALCOA+
 

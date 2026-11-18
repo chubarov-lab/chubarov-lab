@@ -89,19 +89,19 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 1. **Human serum albumin-based nanocomposite for multimodal diagnosis and chemotherapy of oncological diseases**
    <em>Patent application</em> No. 2026124499 (filed 2026)   
 
-3. **Phosphoramide Azole Oligonucleotides, Method for Synthesis of Phosphoramide Azole Oligonucleotides and Method for Matrix Enzymatic Synthesis of DNA Using Them**  
+2. **Phosphoramide Azole Oligonucleotides, Method for Synthesis of Phosphoramide Azole Oligonucleotides and Method for Matrix Enzymatic Synthesis of DNA Using Them**  
    RU 2823099 C1 (published July 2024)  
    [Patent record](https://searchplatform.rospatent.gov.ru/doc/RU2823099C1_20240718?q=IN_RU%3D%20%22%D0%A7%D1%83%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87%20%28RU%29%22%26from=search_advanced)
 
-4. **Methods of Obtaining an Antitumor Conjugate Based on Human Serum Albumin Containing Therapeutic and Contrast Agents**  
+3. **Methods of Obtaining an Antitumor Conjugate Based on Human Serum Albumin Containing Therapeutic and Contrast Agents**  
    RU 2644280 C1 (published February 2018)  
    [Patent record](https://searchplatform.rospatent.gov.ru/doc/RU2644280C1_20180208)
 
-5. **Method for Preparing a Contrast Preparation Based on Human Serum Albumin for Visualizing Tumor Tissues**  
+4. **Method for Preparing a Contrast Preparation Based on Human Serum Albumin for Visualizing Tumor Tissues**  
    RU 2629844 C1 (published September 2017)  
    [Patent record](https://searchplatform.rospatent.gov.ru/doc/RU2629844C1_20170904)
 
-6. **Contrast Agent for Introduction of a Fluorine-19 Label into Proteins Containing Lysine Residues**  
+5. **Contrast Agent for Introduction of a Fluorine-19 Label into Proteins Containing Lysine Residues**  
    RU 2599500 C1 (published October 2016)  
    [Patent record](https://searchplatform.rospatent.gov.ru/doc/RU2599500C1_20161010)
 </details>
@@ -148,23 +148,18 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - **Phosphoramidate Azole Oligonucleotides for Single Nucleotide Polymorphism Detection by PCR**  
   *International Journal of Molecular Sciences*, 2024.
   [DOI: 10.3390/ijms25010617](https://doi.org/10.3390/ijms25010617)
-
 - **Allele-Specific PCR for PIK3CA Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
   *Diagnostics*, 2023.
   [DOI: 10.3390/diagnostics13020250](https://doi.org/10.3390/diagnostics13020250)
-
 - **Solution pH Effect on Drain-Gate Characteristics of SOI FET Biosensor**  
   *Electronics*, 2023. 
   [DOI: 10.3390/electronics12030777](https://doi.org/10.3390/electronics12030777)
-
 - **Self-Penetrating Oligonucleotide Derivatives: Features of Self-Assembly and Interactions with Serum and Intracellular Proteins**  
   *Pharmaceutics*, 2023.
   [DOI: 10.3390/pharmaceutics15122779](https://doi.org/10.3390/pharmaceutics15122779)
-  
 - **Magnetic Nylon 6 Nanocomposites for the Microextraction of Nucleic Acids from Biological Samples**  
   *Magnetochemistry*, 2022.
   [DOI: 10.3390/magnetochemistry8080085](https://doi.org/10.3390/magnetochemistry8080085)
-
 - **The Effect of pH and Buffer on Oligonucleotide Affinity for Iron Oxide Nanoparticles**  
   *Magnetochemistry*, 2021.
   [DOI: 10.3390/magnetochemistry7090128](https://doi.org/10.3390/magnetochemistry7090128)
@@ -191,14 +186,6 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   [DOI: 10.1039/D1CP05445G](https://doi.org/10.1039/D1CP05445G)
 
 #### Drug Delivery & Nanomedicine
-
-- **Serum Albumin for Magnetic Nanoparticles Coating**  
-  *Magnetochemistry*, 2022.
-  [DOI: 10.3390/magnetochemistry8020013](https://doi.org/10.3390/magnetochemistry8020013)
-
-- **High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy**  
-  *Magnetochemistry*, 2022.
-  [DOI: 10.3390/magnetochemistry8050054](https://doi.org/10.3390/magnetochemistry8050054)
 
 - **pH-Responsible Doxorubicin-Loaded Fe3O4@CaCO3 Nanocomposites for Cancer Treatment**  
   *Pharmaceutics*, 2023.

@@ -39,6 +39,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Micro-scale organic synthesis
 - Wet chemistry techniques
 
+</td>
+<td width="50%" valign="top">
+ 
 **Biophysics & Analytical Methods**
 - Characterization of biomolecules and interactions
 - UV–Vis, UV melting analysis of oligonucleotide duplexes

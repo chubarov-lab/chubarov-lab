@@ -22,7 +22,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - DNA extraction from FFPE tissue
 
 **Molecular Biology & Biotechnology**
-- Characterization of biomolecules and interactions
+- Characterization of biomolecules and their interactions
 - DNA/RNA isolation on magnetic beads
 - E. coli, mutagenesis, plasmid isolation, transformation
 - Recombinant protein expression/isolation
@@ -49,13 +49,10 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Fluorescence, titration/quenching (binding affinity, Kd)
 - FTIR, dynamic light scattering (DLS)
 - circular dichroism (CD), LC-MS, MALDI-TOF
-- NMR (<sup>19</sup>F, <sup>31</sup>P, <sup>1</sup>H, <sup>13</sup>C), 2D NMR, MRI probes for <sup>19</sup>F and <sup>1</sup>H, relaxivity
+- NMR (<sup>19</sup>F, <sup>31</sup>P, <sup>1</sup>H, <sup>13</sup>C), 2D NMR, MRI (<sup>19</sup>F and <sup>1</sup>H), relaxivity
 - in-cell EPR, CW-EPR, PELDOR/DEER
 - Basics fluorescence microscopy, and imaging
 - Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR)
-
-
-spectroscopic characterization of biomolecular structures and interactions; UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
 
 **Drug Delivery & Nanomedicine**
 - Magnetic nanoparticles and nanocomposites

@@ -133,6 +133,7 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 <summary><strong>Selected Publications</strong></summary>
 <details>
  <summary><strong>Publications in Leading Journals</strong></summary> 
+
 - **Dimerization and transporter engagement of the energy transducer TonB in intact E. coli cells**
   *Under Review*, 2026
 - **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**
@@ -145,6 +146,7 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 </details>
 <details>
 <summary><strong>Most Cited Publications</strong></summary>
+
 #### 50+ citations
 - **Magnetite Nanoparticles for Biomedical Applications**
   *Encyclopedia*, 2022. **102 citations**

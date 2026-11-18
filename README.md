@@ -7,6 +7,10 @@
 PhD scientist with 10+ years of interdisciplinary experience in bioorganic chemistry, biochemistry, structural biology, nanomedicine, and biomedical research. Experienced in developing molecular diagnostics, functional nanomaterials, drug delivery platforms, and biomolecular probes.
 My research combines experimental chemistry, molecular biology, spectroscopy, and computational approaches to translate fundamental research into biomedical and pharmaceutical applications.
 
+## Research Areas
+
+**Drug Delivery & Nanomedicine** · **Chemical Biology & Bioconjugation** · **Molecular Diagnostics & Oligonucleotide Chemistry** · **Structural Biophysics & EPR Spectroscopy** · **MRI & Molecular Imaging** · **Protein Chemistry & Biomolecular Engineering**
+
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
 

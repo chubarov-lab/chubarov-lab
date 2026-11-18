@@ -10,7 +10,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
 
-<table border="0" style="border: none; width: 100%;">
+<table border="0">
   <tr>
     <td width="50%" valign="top" style="border: none;">
  

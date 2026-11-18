@@ -98,7 +98,7 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 
 **Quality & Documentation**
 - Good documentation practice
-- SOP-style method writing, method validation
+- SOP-style method writing
 - GxP/GMP fundamentals, ALCOA+
 
 </td>

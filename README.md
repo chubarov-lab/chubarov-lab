@@ -183,6 +183,12 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - **Revealing Light-Induced Structural Shifts in G-Quadruplex-Porphyrin Complexes: A Pulsed Dipolar EPR Study**  
   *Physical Chemistry Chemical Physics*, 2023.
   [DOI: 10.1039/D3CP01775C](https://doi.org/10.1039/D3CP01775C)
+- **Application of EPR to Porphyrin-Protein Agents for Photodynamic Therapy**  
+  *Journal of Photochemistry and Photobiology B: Biology*, 2020.  
+  [DOI: 10.1016/j.jphotobiol.2020.112008](https://doi.org/10.1016/j.jphotobiol.2020.112008)
+- **Application of W-Band 19F Electron Nuclear Double Resonance (ENDOR) Spectroscopy to Distance Measurement Using a Trityl Spin Probe and a Fluorine Label**  
+  *Physical Chemistry Chemical Physics*, 2022.  
+  [DOI: 10.1039/D1CP05445G](https://doi.org/10.1039/D1CP05445G)
 
 #### Drug Delivery & Nanomedicine
 

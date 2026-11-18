@@ -30,6 +30,10 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Basic training in mammalian cell culture
 - Familiar with ELISA, western blot, MTT assay and flow cytometry
 
+**Analytics & Purification**
+
+- Analytics & Purification: chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel); mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS); electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA)); radical formation (UV–Vis, methyl viologen); protein aggregation/amyloid (Congo red, thioflavin T, ANS assays). 
+
 </td>
 <td width="50%" valign="top">
  
@@ -40,22 +44,19 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Micro-scale organic synthesis
 - Wet chemistry techniques
  
-**Biophysics & Analytical Methods**
+**Biophysical & Analytical Methods**
 - UV–Vis, UV melting analysis of oligonucleotide duplexes
 - Fluorescence, titration/quenching (binding affinity, Kd)
-- Basics fluorescence microscopy, and imaging
 - FTIR, dynamic light scattering (DLS)
 - circular dichroism (CD), LC-MS, MALDI-TOF
 - NMR (<sup>19</sup>F, <sup>31</sup>P, <sup>1</sup>H, <sup>13</sup>C), 2D NMR
 - MRI probes for <sup>19</sup>F and <sup>1</sup>H, relaxivity
 - in-cell EPR, CW-EPR, PELDOR/DEER
+- Basics fluorescence microscopy, and imaging
+- Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR)
 
-**Analytics & Purification**
 
-- Analytics & Purification: chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel); mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS); electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA)); radical formation (UV–Vis, methyl viologen); protein aggregation/amyloid (Congo red, thioflavin T, ANS assays). 
-
-in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), 
- Spectroscopy & Biophysics: spectroscopic characterization of biomolecular structures and interactions; UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
+spectroscopic characterization of biomolecular structures and interactions; UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
 
 **Drug Delivery & Nanomedicine**
 - Magnetic nanoparticles and nanocomposites

@@ -131,11 +131,11 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Magnetochemistry*, 2022. **88 citations**
 
 - **Reversible Dimerization of Human Serum Albumin**  
-  *Molecules*, 2020. **79 citations**  
+  *Molecules*, 2021. **79 citations**
   [DOI: 10.3390/molecules26010108](https://doi.org/10.3390/molecules26010108)
 
 - **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**  
-  *Chemistry – A European Journal*, 2020. **68 citations**  
+  *Chemistry – A European Journal*, 2020. **68 citations**
   [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
 
 - **High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy**  

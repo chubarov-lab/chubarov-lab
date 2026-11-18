@@ -11,6 +11,8 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · Chemical Biology & Bioconjugation · Protein Chemistry & Biomolecular Engineering · Structural Biophysics · Cancer Imaging 
 
+📍 Berlin, Germany
+
 <h4 align="center">RESEARCH AT A GLANCE</h4>
 
 <p align="center">
@@ -263,8 +265,6 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 ---
 </details>
 </details>
-
-📍 Berlin, Germany
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=OBtmliMAAAAJ">Google Scholar</a> &nbsp;·&nbsp;

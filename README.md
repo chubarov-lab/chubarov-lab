@@ -9,7 +9,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 #### Research Areas
 
-**Molecular Diagnostics & Oligonucleotide Chemistry** · **Drug Delivery & Nanomedicine** · **Chemical Biology & Bioconjugation** · **Protein Chemistry & Biomolecular Engineering** · **Structural Biophysics** · **Molecular Imaging** · **Protein Chemistry & Biomolecular Engineering**
+**PCR Diagnostics & Oligonucleotide Chemistry** · **Drug Delivery & Nanomedicine** · **Chemical Biology & Bioconjugation** · **Protein Chemistry & Biomolecular Engineering** · **Structural Biophysics** · **Molecular Imaging**
 
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>

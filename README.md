@@ -12,8 +12,8 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 **Molecular Biology & Diagnostics**
 - qPCR, dPCR, PCR assay development, validation, and performance evaluation
-- (PCR efficiency, cut-off determination, detection limit, sensitivity, specificity)
-- Modified oligonucleotides, primer and probe design
+- PCR efficiency, cut-off determination, detection limit, sensitivity, specificity
+- Modified oligonucleotides, primer, blocker, and probe design
 - DNA/RNA isolation, FFPE tissue analysis
 
 **Chemical Biology & Bioconjugation**
@@ -38,7 +38,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - SOP development, method validation
 - GxP/GMP fundamentals, ALCOA+
 
-- Molecular Biology & Diagnostics: protein and nucleic acid isolation, purification, and characterization; preparation of magnetic nanocomposites for non- and sequence-specific nucleic acid extraction (MSPE); modified primer and blocker design and synthesis; qPCR-based diagnostic assay development and performance evaluation (PCR efficiency, cut-off determination, detection limit, sensitivity, specificity), DNA extraction from FFPE tissue, dPCR; familiar with ELISA and western blot. 
+- Molecular Biology & Diagnostics: protein and nucleic acid isolation, purification, and characterization; preparation of magnetic nanocomposites for non- and sequence-specific nucleic acid extraction (MSPE); DNA extraction from FFPE tissue, dPCR; familiar with ELISA and western blot. 
 Biotechnology: E. coli, mutagenesis, plasmid isolation, transformation; recombinant protein expression/isolation; bacterial viability assays; basic training in mammalian cell culture (MCF-7, T98G, and A-549 cells). Familiar with MTT assay and flow cytometry.
 Chemical Biology & Synthetic Chemistry: Bioconjugation; chemical modification and site-directed labeling of proteins, nucleic acids, and polymers (spin labels, dyes, and antibiotics); molecular probe design; synthesis of click chemistry reagents; micro-scale organic synthesis and wet chemistry techniques; solid-phase oligonucleotide synthesis.
 Spectroscopy & Biophysics: spectroscopic characterization of biomolecular structures and interactions; UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.

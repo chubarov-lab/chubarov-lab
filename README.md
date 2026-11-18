@@ -149,14 +149,14 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 #### Structural Biophysics & EPR
 
 - **Pulsed Dipolar EPR for Self-Limited Complexes of Oligonucleotides Studies**  
-  *Biomolecules*, 2024.  
+  *Biomolecules*, 2024.
   [DOI: 10.3390/biom14080887](https://doi.org/10.3390/biom14080887)
 
 - **Reversible Dimerization of Human Serum Albumin**  
-  *Molecules*, 2020.  
+  *Molecules*, 2021.
   [DOI: 10.3390/molecules26010108](https://doi.org/10.3390/molecules26010108)
   - **Methanethiosulfonate Derivative of OX063 Trityl: A Promising and Efficient Reagent for Side-Directed Spin Labeling of Proteins**
-  *Chemistry – A European Journal*, 2020.  
+  *Chemistry – A European Journal*, 2020.
   [DOI: 10.1002/chem.201904587](https://doi.org/10.1002/chem.201904587)
 
 #### Molecular Diagnostics & Oligonucleotide Chemistry
@@ -165,21 +165,21 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Diagnostics*, 2020.
 
 - **Allele-Specific PCR for PIK3CA Mutation Detection Using Phosphoryl Guanidine Modified Primers**  
-  *Diagnostics*, 2023.  
+  *Diagnostics*, 2023.
   [DOI: 10.3390/diagnostics13020250](https://doi.org/10.3390/diagnostics13020250)
 
 #### Drug Delivery & Nanomedicine
 
 - **Serum Albumin for Magnetic Nanoparticles Coating**  
-  *Magnetochemistry*, 2022.  
+  *Magnetochemistry*, 2022.
   [DOI: 10.3390/magnetochemistry8020013](https://doi.org/10.3390/magnetochemistry8020013)
 
 - **High Drug Capacity Doxorubicin-Loaded Iron Oxide Nanocomposites for Cancer Therapy**  
-  *Magnetochemistry*, 2022.  
+  *Magnetochemistry*, 2022.
   [DOI: 10.3390/magnetochemistry8050054](https://doi.org/10.3390/magnetochemistry8050054)
 
 - **pH-Responsible Doxorubicin-Loaded Fe3O4@CaCO3 Nanocomposites for Cancer Treatment**  
-  *Pharmaceutics*, 2023.  
+  *Pharmaceutics*, 2023.
   [DOI: 10.3390/pharmaceutics15030771](https://doi.org/10.3390/pharmaceutics15030771)
 
 ---

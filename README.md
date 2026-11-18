@@ -56,23 +56,25 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR)
 
 **Drug Delivery & Nanomedicine**
-- Magnetic nanoparticles and nanocomposites
+- Magnetic nanoparticles and nanocomposites (MNP)
+- Synthesis and characterization of MNP
+- coating: inorganic compounds, polymers, and biomolecules (bioinspired)
+- Non- and sequence-specific nucleic acid extraction (MSPE) on beads
 - Albumin-based nanocarriers
-- Drug loading and controlled release
+- Drug loading and pH-triggered release
+- Molecularly imprinted polymers
 
 **Computational Tools**
+- Scientific computing, data analysis, AI-assisted coding, and visualization
 - Python, MATLAB, AlphaFold 3, PyMOL, OriginLab
+-  AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3), MATLAB, OriginLab, PyMOL, ChemOffice, Topspin, etc.; molecular dynamics simulations (basic); scientific database and literature search (e.g., Reaxys). 
 
 **Quality & Documentation**
 - good documentation practice
 - SOP-style method writing, method validation
 - GxP/GMP fundamentals, ALCOA+
 
-preparation of magnetic nanocomposites for non- and sequence-specific nucleic acid extraction (MSPE); 
-Spectroscopy & Biophysics: spectroscopic characterization of biomolecular structures and interactions; UV–Vis, UV thermal denaturation/melting analysis of oligonucleotide duplexes; fluorescence spectroscopy, titration/quenching (binding affinity, Kd); FTIR; circular dichroism; dynamic light scattering; NMR incl. 2D NMR, relaxivity, 19F, 31P, and MRI probes; in-cell EPR (CW, PELDOR). Familiar with isothermal titration calorimetry (ITC), surface plasmon resonance (SPR), fluorescence microscopy, and imaging.
-Analytics & Purification: chromatography (RP-HPLC, ion-exchange, affinity, size-exclusion (SEC), silica gel); mass spectrometry (protein digest, modification site analysis, MALDI-TOF, ESI, LC-MS); electrophoresis (SDS-PAGE, native, 2D, agarose, mobility shift assay (EMSA)); radical formation (UV–Vis, methyl viologen); protein aggregation/amyloid (Congo red, thioflavin T, ANS assays). 
-Nanomaterials for Biomedical Applications: drug delivery; synthesis and characterization of magnetic nanoparticles; coating with inorganic compounds, polymers, and biomolecules; drug loading and pH-triggered release; molecularly imprinted polymers
-Computational: Python (scientific computing, data analysis, AI-assisted coding, and visualization), AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3), MATLAB, OriginLab, PyMOL, ChemOffice, Topspin, etc.; molecular dynamics simulations (basic); scientific database and literature search (e.g., Reaxys). 
+
 
 </td>
 </tr>

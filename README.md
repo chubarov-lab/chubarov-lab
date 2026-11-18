@@ -21,17 +21,14 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - PCR performance evaluation (sensitivity, specificity, etc.)
 - DNA extraction from FFPE tissue
 
-**Molecular Biology**
+**Molecular Biology & Biotechnology**
 - Characterization of biomolecules and interactions
 - DNA/RNA isolation on magnetic beads
-- Familiar with ELISA and western blot
-- 
-**Biotechnology**
 - E. coli, mutagenesis, plasmid isolation, transformation
 - Recombinant protein expression/isolation
 - Bacterial viability assays
 - Basic training in mammalian cell culture
-- Familiar with MTT assay and flow cytometry
+- Familiar with ELISA, western blot, MTT assay and flow cytometry
 
 </td>
 <td width="50%" valign="top">

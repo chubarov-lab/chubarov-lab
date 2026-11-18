@@ -67,10 +67,11 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Magnetic nanoparticles and nanocomposites (MNP)
 - Synthesis and characterization of MNP
 - Сoating: inorganic, polymers, and biomolecules (bioinspired)
-- Non- and sequence-specific nucleic acid extraction (MSPE)
-- Albumin-based nanocarriers
-- Drug loading and pH-triggered release
 - Molecularly imprinted polymers
+- Non- and sequence-specific nucleic acid extraction (MSPE)
+- Albumin-based multifunctional nanocarriers for MRI and therapy
+- Constructions for cancer imaging and treatment (theranostics)
+- Drug loading and pH-triggered release
 
 **Quality & Documentation**
 - good documentation practice

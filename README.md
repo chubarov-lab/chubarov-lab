@@ -109,7 +109,6 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <summary><strong>Selected Publications</strong></summary>
  
 #### Selected Publications in Leading Journals
-<sub>
 - **Dimerization and transporter engagement of the energy transducer TonB in intact E. coli cells**
   *Under Review*, 2026
 - **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**
@@ -119,7 +118,6 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
   *Angewandte Chemie International Edition*, 2019.  **68 citations**
   [DOI: 10.1002/anie.201904152](https://doi.org/10.1002/anie.201904152)  
   <sub>Citation counts according to Google Scholar, November 2026.</sub>
-</sub>
 
 #### Most Cited Publications (50+ citations)
 - **Magnetite Nanoparticles for Biomedical Applications**

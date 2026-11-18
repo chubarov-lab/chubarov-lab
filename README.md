@@ -263,6 +263,7 @@ PCR Diagnostics & Oligonucleotide Chemistry · Drug Delivery & Nanomedicine · C
 **Basic Cheminformatics Course for First-Year Chemistry Students**  
   *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
   [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
+  
 ---
 </details>
 </details>

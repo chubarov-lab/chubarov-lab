@@ -39,7 +39,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 **Computational Tools**
 - Scientific computing, data analysis, AI-assisted coding, and visualization
-- Python, MATLAB, PyMOL, OriginLab, ChemOffice, Topspin, etc.
+- Python, MATLAB, PyMOL, OriginLab, ChemOffice, Topspin
 - AI-assisted approaches for protein structure prediction and analysis (AlphaFold 3),
 - Basic training in molecular dynamics simulations
 - Scientific database and literature search (e.g., Reaxys)
@@ -108,9 +108,12 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <details>
 <summary><strong>Selected Publications</strong></summary>
  
-1. **Basic Cheminformatics Course for First-Year Chemistry Students**  
-   *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
-   [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
+### 💻 Cheminformatics & Scientific Education
+
+**Basic Cheminformatics Course for First-Year Chemistry Students**  
+  *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
+  [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
+  
 ### ⭐ Selected Publications in Leading Journals
 
 - **Enhanced Binding Site Identification in Protein-Ligand Complexes with a Combined Blind Docking and Dipolar Electron Paramagnetic Resonance Approach**  
@@ -157,12 +160,6 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - **pH-Responsible Doxorubicin-Loaded Fe3O4@CaCO3 Nanocomposites for Cancer Treatment**  
   *Pharmaceutics*, 2023.  
   [DOI: 10.3390/pharmaceutics15030771](https://doi.org/10.3390/pharmaceutics15030771)
-
-### 💻 Cheminformatics & Scientific Education
-
-- **Basic Cheminformatics Course for First-Year Chemistry Students**  
-  *Journal of Chemical Education*, 2022, 99(8), 2932–2942.  
-  [DOI: 10.1021/acs.jchemed.2c00175](https://doi.org/10.1021/acs.jchemed.2c00175)
 
 ---
 

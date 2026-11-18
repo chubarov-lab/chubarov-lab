@@ -87,7 +87,7 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <summary><strong>Patents</strong></summary>
  
 1. **Human serum albumin-based nanocomposite for multimodal diagnosis and chemotherapy of oncological diseases**
-   Application No. 2026124499 (filed 2026)   <em>Patent application</em>
+   <em>Patent application</em> No. 2026124499 (filed 2026)   
 
 3. **Phosphoramide Azole Oligonucleotides, Method for Synthesis of Phosphoramide Azole Oligonucleotides and Method for Matrix Enzymatic Synthesis of DNA Using Them**  
    RU 2823099 C1 (published July 2024)  

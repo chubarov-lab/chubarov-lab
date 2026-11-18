@@ -18,12 +18,11 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - Solid-phase oligonucleotide synthesis
 - Modified oligonucleotides, primer, blocker, and probe design
 - qPCR, dPCR, PCR assay development and validation 
-- PCR performance evaluation, sensitivity, specificity, etc.
-- DNA/RNA isolation on magnetic beads
+- PCR performance evaluation (sensitivity, specificity, etc.)
 - DNA extraction from FFPE tissue
 
 **Molecular Biology**
-
+- DNA/RNA isolation on magnetic beads
 - Familiar with ELISA and western blot
 **Biotechnology**
 - E. coli, mutagenesis, plasmid isolation, transformation

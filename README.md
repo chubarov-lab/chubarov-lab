@@ -223,6 +223,18 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 - **Synthesis and Characterization of Fluorinated Homocysteine Derivatives as Potential Molecular Probes for 19F Magnetic Resonance Spectroscopy and Imaging**  
   *Bioorganic & Medicinal Chemistry Letters*, 2011.
   [DOI: 10.1016/j.bmcl.2011.04.119](https://doi.org/10.1016/j.bmcl.2011.04.119)
+
+#### Theranostic Bioconjugates & Albumin-Based Drug Delivery
+
+- **Biotin-Decorated Anti-Cancer Nucleotide Theranostic Conjugate of Human Serum Albumin: Where the Seed Meets the Soil?**  
+  *Bioorganic & Medicinal Chemistry Letters*, 2018.
+  [DOI: 10.1016/j.bmcl.2017.12.061](https://doi.org/10.1016/j.bmcl.2017.12.061)
+- **Multifunctional Human Serum Albumin-Therapeutic Nucleotide Conjugate with Redox and pH-Sensitive Drug Release Mechanism for Cancer Theranostics**  
+  *Bioorganic & Medicinal Chemistry Letters*, 2017.
+  [DOI: 10.1016/j.bmcl.2017.05.084](https://doi.org/10.1016/j.bmcl.2017.05.084)
+- **Ligand-Directed Acid-Sensitive Amidophosphate 5-Trifluoromethyl-2′-Deoxyuridine Conjugate as a Potential Theranostic Agent**  
+  *Bioconjugate Chemistry*, 2013.
+  [DOI: 10.1021/bc3006072](https://doi.org/10.1021/bc3006072)
 ---
 </details>
 </details>

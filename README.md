@@ -10,9 +10,9 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 <details>
 <summary><strong>Technical Skills & Methods</strong></summary>
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top" style="border: none;">
+<table border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td width="50%" valign="top" style="border: none;">
  
 **PCR Diagnostics**
 - Solid-phase oligonucleotide synthesis

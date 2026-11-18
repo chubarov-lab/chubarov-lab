@@ -212,7 +212,6 @@ My research combines experimental chemistry, molecular biology, spectroscopy, an
 
 ---
 </details>
-[Full publication list — Google Scholar](https://scholar.google.com/citations?user=OBtmliMAAAAJ)
 </details>
 📍 Berlin, Germany
 
